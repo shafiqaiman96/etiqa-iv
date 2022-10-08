@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026436915354",
+    "firebase_url": "https://etiqa-iv-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "etiqa-iv",
+    "storage_bucket": "etiqa-iv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026436915354:android:792b9ebb73fb338f01ff23",
+        "android_client_info": {
+          "package_name": "com.shafiqjefri.etiqaiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026436915354-h9e271g2c03qtimsi4krn5n04gn5gfff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEcxy5-qsk0CL99YIe2CwtrF8EcwpJ1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026436915354-h9e271g2c03qtimsi4krn5n04gn5gfff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
